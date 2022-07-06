@@ -1,11 +1,9 @@
 # session-2-github
-Practicing editing a README markup file, then adding it.
-
-How to create a good README file.
-
 What to add:
 
 - Title
+How to create a good README file
 
 
 - Description
+Practicing editing a README markup file, then adding it.
