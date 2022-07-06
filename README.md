@@ -1,5 +1,5 @@
 # session-2-github
-What to add:
+What to add to your README file:
 
 - Title
 How to create a good README file
