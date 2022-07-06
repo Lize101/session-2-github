@@ -12,3 +12,4 @@ Practicing editing a README markup file, then adding it, committing it and then 
 - Process
 git clone
 git status
+git add .
