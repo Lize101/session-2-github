@@ -13,3 +13,5 @@ Practicing editing a README markup file, then adding it, committing it and then 
 git clone
 git status
 git add .
+git status
+git commit -m ""
